@@ -1,4 +1,4 @@
-# Webb-Application
+# Azure Webb Application
 This project is focused on the deployment of a custom web application using Azure services. The project involves:
 - Successfully created an Azure web app and deployed a container to host a web application.
 - Designed a custom web application tailored to meet the specific needs of the organization.
